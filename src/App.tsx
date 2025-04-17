@@ -64,6 +64,7 @@ function App() {
   return (
     <>
       <div className="App">
+        <h1> console.log("Testing single file push to GitHub");</h1>
         <TopHeader />
         <NavigationBar links={links} />
         <HeroSlider
